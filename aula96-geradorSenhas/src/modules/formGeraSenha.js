@@ -25,3 +25,4 @@ function gera() {
 
         return senha || 'Nada Selecionado.';
 }
+
